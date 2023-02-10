@@ -1,1 +1,1 @@
-# Fase1.Eindopdracht-GameCatalog
+# Eindopdracht - GameCatalog
